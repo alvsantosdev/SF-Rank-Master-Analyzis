@@ -1,0 +1,1 @@
+SELECT p1_char, p2_char FROM matches;

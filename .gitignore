@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+workspace.xml
+/shelf/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+
+# heavy files
+
+data/raw/*.csv
+data/Processed/*.db
