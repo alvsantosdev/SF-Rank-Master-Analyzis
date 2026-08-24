@@ -60,6 +60,8 @@ pip install -r requirements.txt
     referentes a players 1 e 2. Cada player possui uma escolha de personagem, MR naquela partida, plataforma região e título. O grande volume de partidas permite a observação
     de tendências e reduzir o impacto de casos isolados.
 
+    link: https://www.kaggle.com/datasets/kenssfdata/sf6-masters-matches
+
 
 ## Metodologia:
 
